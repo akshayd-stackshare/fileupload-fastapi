@@ -1,7 +1,7 @@
 ## Instructions for use
 
 ### Create a .env file in the source folder
-####
+####a
 Set the necessary environment variables in .env, for instance:
 
 FILESTORE_DIR=/data/filestore\
